@@ -1,0 +1,57 @@
+﻿  AidKid.cpp
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\AidKid.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Bullet.cpp
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Dragon.cpp
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Dragon.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Enemy.cpp
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  GameLoop.cpp
+D:\RogueLike\Project1\Project1\GameLoop.h(13,2): warning C4091: static : пропускается слева от "GameLoop", когда ни одна переменная не объявлена
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Knight.cpp
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Map.cpp
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Map.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(130,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(150,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(154,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(166,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(172,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(180,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(190,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\RogueLike\Project1\Project1\Map.cpp(199,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Princess.cpp
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Princess.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  main.cpp
+D:\RogueLike\Project1\Project1\GameLoop.h(13,2): warning C4091: static : пропускается слева от "GameLoop", когда ни одна переменная не объявлена
+D:\RogueLike\Project1\Project1\Enemy.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Character.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\RogueLike\Project1\Project1\Knight.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода
+  279 of 985 functions (28.3%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    95 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+vcasan.lib(vcasan.obj) : warning LNK4099: "vcasan.pdb" PDB не найден с "vcasan.lib(vcasan.obj)" или на "D:\RogueLike\Project1\Release\vcasan.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Project1.vcxproj -> D:\RogueLike\Project1\Release\RogueLike.exe

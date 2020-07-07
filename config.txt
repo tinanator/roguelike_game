@@ -1,0 +1,7 @@
+Knight 30 30 5 K
+Zombie 10 20 1 Z 10
+Dragon 40 40 3 S 15
+KBullet 5 o
+DBullet 2 *
+AidKid 5 +
+Princess P
